@@ -1,9 +1,7 @@
-# Infinite-Void-Website
+# Voided_Website
 
-Group Infinite Void Website Members:
+Owner: 
+    Rodsef Ramirez
 
-Paras
-Ramirez
-Saguinsin
-Mariano
-Sales Ye
+About:
+    previously the main repository for the IMREACH Website.
